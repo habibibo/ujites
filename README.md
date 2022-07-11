@@ -1,5 +1,10 @@
 # ujites
 
+# Silahkan di download, kemudian ketik 
+    1 - flutter pub get
+    2 - flutter run --no-sound-null-safety
+    3 - Jika ingin build apk, silahkan ketik "flutter build apk --no-sound-null-safety"
+    
 A new Flutter project.
 
 ## Getting Started
